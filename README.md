@@ -1,6 +1,6 @@
 # Curso teórico-práctico de introducción a la secuenciación con tecnología Oxford Nanopore Technologies para la caracterización de microorganismos
 ## Curso de Posgrado PEDECIBA Biología
-### Institut Pasteur de Montevide - Uruguay
+### Institut Pasteur de Montevideo - Uruguay
 ### Del 2 al 6 de Diciembre de 2024
 #### De 9:00 a 12:00 y de 13:00 a 17:00
 
