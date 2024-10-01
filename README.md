@@ -19,7 +19,7 @@ Recursos en línea de ONT para el pre-procesamiento y análisis de secuencias: E
 Github del curso. Localización de datos y exploración de la estructura de archivos. Activación de ambiente de conda. [Link a la presentación]().  
 
 
-### Día 2: Aplicación de ONT para la generación de genomas bacterianos completos y su relevancia epidemiológica.
+### Día 2: Aplicación de ONT para la generación de genomas bacterianos completos y su relevancia en el área epidemiológica.
 #### Teóricos (3 hs): 
 Estrategias de preparación de bibliotecas de secuenciación genómica  y herramientas para la obtención de genomas completos de microorganismos. [Link a la presentación]().  
 Ejemplos de obtención y/o mejora de ensamblados, análisis de estructura genómica, genómica de poblaciones y filogenética/filogeografía de patógenos 1. [Link a la presentación]().  
@@ -30,7 +30,7 @@ Ejemplos de obtención y/o mejora de ensamblados, análisis de estructura genóm
 Preparación de biblioteca de secuenciación libre de amplificación (_ligation_) a partir de ADN purificado.   
 Cargado en celda de secuenciación y manejo de software.  
 
-### Día 3: Monitoreo basado en secuenciación de enfermedades infecciosas y resistencia a antimicrobianos.
+### Día 3: Monitoreo de enfermedades infecciosas y resistencia a antimicrobianos.
 #### Teóricos (3 hs): 
 Monitoreo de la resistencia antimicrobiana. [Link a la presentación]().  
 Introducción a las herramientas para la tipificación de cepas, estudio comparativo de genomas y relaciones filogenéticas.  [Link a la presentación]().  
@@ -45,7 +45,7 @@ Discusión grupal.
 Análisis filogenéticos de los genomas ensamblados y su relación con los genomas en la base de datos.  
 Discusión grupal.  
 
-### Día 5: Aplicación de ONT para la generación de genomas virales a partir de la secuenciación de amplicones solapantes. Aplicación y relevancia para el estudio de brotes epidemiológicos.
+### Día 5: Aplicación de ONT para la generación de genomas virales. Aplicación y relevancia para el estudio de brotes epidemiológicos.
 #### Teóricos (3 hs): 
 Ejemplos de seguimiento de la evolución viral en tiempo real: SARS-CoV-2. [Link a la presentación]().   
 Estrategias y métodos para la caracterización de la evolución viral.  [Link a la presentación]().    
