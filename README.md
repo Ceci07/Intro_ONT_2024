@@ -16,7 +16,7 @@ Plataformas de secuenciación de tercera generación: utilización de TGS para e
 Tipos de plataformas de secuenciación ONT. Diseño del experimento de secuenciación. Métodos de preparación de bibliotecas de secuenciación ONT utilizando métodos libres y dependientes de amplificación. [Link a la presentación]().  
 Consideraciones para la extracción de ADN genómico microbiano y control de calidad del ADN. [Link a la presentación]().  
 Recursos en línea de ONT para el pre-procesamiento y análisis de secuencias: EPI2ME y Github. [Link a la presentación]().  
-Github del curso. Localización de datos y exploración de la estructura de archivos. Activación de ambiente de conda. [Link a la presentación]().  
+Github del curso. Localización de datos y exploración de la estructura de archivos. Instalación de herramientas. [Link a la presentación]() y [tutorial](https://ceci07.github.io/Intro_ONT_2024/tutorial1.html).  
 
 
 ### Día 2: Aplicación de ONT para la generación de genomas bacterianos completos y su relevancia en el área epidemiológica.
