@@ -7,7 +7,7 @@
 ### Día 1: Introducción a la secuenciación de tercera generación. Comparación con tecnologías de secuenciación previas. 
 #### Teóricos (3 hs):
 Presentación de estudiantes y docentes.  
-Introducción a las tecnologías de secuenciación TGS (del inglés _third generation sequencing_).  Fundamentos de la secuenciación con ONT. 
+Introducción a las tecnologías de secuenciación TGS (del inglés _third generation sequencing_).  Fundamentos de la secuenciación con ONT.   
 Cecilia Salazar [Link a la presentación]().  
 Plataformas de secuenciación de tercera generación: utilización de TGS para el ensamblado de genomas.  
 Luisa Berná [Link a la presentación 1]().  
@@ -36,18 +36,18 @@ Pablo Fresia [Link a la presentación]().
 #### Prácticos (4 hs):
 Preparación de biblioteca de secuenciación libre de amplificación (_ligation_) a partir de ADN purificado.   
 Cargado en celda de secuenciación y manejo de software.  
-Cecilia Salazar
-Alicia Costábile 
+Cecilia Salazar  
+Alicia Costábile   
 
 ### Día 3: Monitoreo de enfermedades infecciosas y resistencia a antimicrobianos.
 #### Teóricos (3 hs): 
-Monitoreo de la resistencia antimicrobiana. 
+Monitoreo de la resistencia antimicrobiana.   
 Nadia Riera [Link a la presentación]().  
 Introducción a las herramientas para la tipificación de cepas, estudio comparativo de genomas y relaciones filogenéticas.  
 Daniela Costa [Link a la presentación]().  
 
 #### Prácticos (4 hs):
-Control de calidad de los datos de secuenciación ONT de un dataset público. 
+Control de calidad de los datos de secuenciación ONT de un dataset público.  
 Cecilia Salazar [Ver práctico]().   
 Ensamblado _de novo_ y determinación de las relaciones filogenéticas con secuencias depositadas en base de datos públicas. 
 Varios docentes [Ver práctico]().   
@@ -56,20 +56,20 @@ Varios docentes [Ver práctico]().
 #### Prácticos (7 hs):
 Control de calidad de los datos generados en el práctico. Ensamblado genómico, búsqueda de genes de resistencia a antimicrobianos y virulencia. Clasificación de contigs plasmídicos.  
 Discusión grupal.  
-Varios docentes
+Varios docentes  
 Análisis filogenéticos de los genomas ensamblados y su relación con los genomas en la base de datos.  
 Discusión grupal.  
-Varios docentes
+Varios docentes  
 
 ### Día 5: Aplicación de ONT para la generación de genomas virales. Aplicación y relevancia para el estudio de brotes epidemiológicos.
 #### Teóricos (3 hs): 
-Ejemplos de seguimiento de la evolución viral en tiempo real con ONT: SARS-CoV-2. 
+Ejemplos de seguimiento de la evolución viral en tiempo real con ONT: SARS-CoV-2.   
 Pilar Moreno [Link a la presentación]().   
 Estrategias y métodos para la caracterización de la evolución viral.  
 Marianoel Pereira  [Link a la presentación]().    
 
 #### Prácticos (4 hs):
 Presentación y discusión de los resultados grupales. [Instrucciones]().  
-Varios docentes
+Varios docentes  
 
 
