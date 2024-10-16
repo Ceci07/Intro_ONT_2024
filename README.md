@@ -10,16 +10,16 @@ Presentación de estudiantes y docentes.
 Introducción a las tecnologías de secuenciación TGS (del inglés _third generation sequencing_).  Fundamentos de la secuenciación con ONT.   
 Cecilia Salazar [Link a la presentación]().  
 Plataformas de secuenciación de tercera generación: utilización de TGS para el ensamblado de genomas.  
-Luisa Berná [Link a la presentación 1]().  
-Florencia Díaz [Link a la presentación 2]().  
+Docente: [Link a la presentación 1]().  
+Docente: [Link a la presentación 2]().  
 
 #### Prácticos (4 hs):	
 Tipos de plataformas de secuenciación ONT. Diseño del experimento de secuenciación. Métodos de preparación de bibliotecas de secuenciación ONT utilizando métodos libres y dependientes de amplificación.   
-Cecilia Salazar [Link a la presentación]().  
+Alicia Costábile [Link a la presentación]().  
 Consideraciones para la extracción de ADN genómico microbiano y control de calidad del ADN.   
 Cecilia Salazar [Link a la presentación]().  
 Recursos en línea de ONT para el pre-procesamiento y análisis de secuencias: EPI2ME y Github.   
-Alicia Costábile y Cecilia Salazar [Link a la presentación]().  
+Alicia Costábile [Link a la presentación]().  
 Github del curso. Localización de datos y exploración de la estructura de archivos. Instalación de herramientas.   
 Cecilia Salazar [Link a la presentación]() y [tutorial](https://ceci07.github.io/Intro_ONT_2024/tutorial1.html).  
 
@@ -31,7 +31,7 @@ Alicia Costábile [Link a la presentación]().
 Ejemplos de obtención y/o mejora de ensamblados, análisis de estructura genómica, genómica de poblaciones y filogenética/filogeografía de patógenos 1.   
 Andrés Parada [Link a la presentación]().  
 Ejemplos de obtención y/o mejora de ensamblados, análisis de estructura genómica, genómica de poblaciones y filogenética/filogeografía de patógenos 2.   
-Pablo Fresia [Link a la presentación]().  
+Docente: [Link a la presentación]().  
 
 #### Prácticos (4 hs):
 Preparación de biblioteca de secuenciación libre de amplificación (_ligation_) a partir de ADN purificado.   
@@ -42,7 +42,7 @@ Alicia Costábile
 ### Día 3: Monitoreo de enfermedades infecciosas y resistencia a antimicrobianos.
 #### Teóricos (3 hs): 
 Monitoreo de la resistencia antimicrobiana.   
-Nadia Riera [Link a la presentación]().  
+Docente: [Link a la presentación]().  
 Introducción a las herramientas para la tipificación de cepas, estudio comparativo de genomas y relaciones filogenéticas.  
 Daniela Costa [Link a la presentación]().  
 
