@@ -21,7 +21,7 @@ Cecilia Salazar [Link a la presentación]().
 Recursos en línea de ONT para el pre-procesamiento y análisis de secuencias: EPI2ME y Github.   
 Alicia Costábile [Link a la presentación]().  
 Github del curso. Localización de datos y exploración de la estructura de archivos. Instalación de herramientas.   
-Cecilia Salazar [Link a la presentación]() y [tutorial](https://ceci07.github.io/Intro_ONT_2024/tutorial1.html).  
+Cecilia Salazar [Link a la presentación]() y [tutorial](https://ceci07.github.io/Intro_ONT_2024/doc1.html).  
 
 
 ### Día 2: Aplicación de ONT para la generación de genomas bacterianos completos y su relevancia en el área epidemiológica.
