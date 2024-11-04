@@ -38,6 +38,7 @@ Preparación de biblioteca de secuenciación libre de amplificación (_ligation_
 Cargado en celda de secuenciación y manejo de software.  
 Cecilia Salazar  
 Alicia Costábile   
+Florencia Díaz
 
 ### Día 3: Monitoreo de enfermedades infecciosas y resistencia a antimicrobianos.
 #### Teóricos (3 hs): 
@@ -47,10 +48,8 @@ Introducción a las herramientas para la tipificación de cepas, estudio compara
 Daniela Costa [Link a la presentación]().  
 
 #### Prácticos (4 hs):
-Control de calidad de los datos de secuenciación ONT de un dataset público.  
-Cecilia Salazar [Ver práctico]().   
-Ensamblado _de novo_ y determinación de las relaciones filogenéticas con secuencias depositadas en base de datos públicas. 
-Varios docentes [Ver práctico]().   
+Control de calidad de los datos de secuenciación ONT de un dataset público. Ensamblado _de novo_ y determinación de las relaciones filogenéticas con secuencias depositadas en base de datos públicas. 
+Varios docentes [Ver práctico]() y [tutorial](https://ceci07.github.io/Intro_ONT_2024/doc2.html).   
 
 ### Día 4: Análisis de datos de secuenciación. Procesamiento de datos crudos. Ensamblado de genomas. 
 #### Prácticos (7 hs):
