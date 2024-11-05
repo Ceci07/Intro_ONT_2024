@@ -10,8 +10,8 @@ Presentación de estudiantes y docentes.
 Introducción a las tecnologías de secuenciación TGS.  Fundamentos de la secuenciación con ONT.   
 Cecilia Salazar [Link a la presentación]().  
 Plataformas de secuenciación de tercera generación: utilización de TGS para el ensamblado de genomas.  
-Docente: [Link a la presentación 1]().  
-Docente: [Link a la presentación 2]().  
+Luisa Berná: [Link a la presentación 1]().  
+Florencia Díaz: [Link a la presentación 2]().  
 
 #### Prácticos (4 hs):	
 Tipos de plataformas de secuenciación ONT. Diseño del experimento de secuenciación. Métodos de preparación de bibliotecas de secuenciación ONT utilizando métodos libres y dependientes de amplificación.   
@@ -31,7 +31,7 @@ Alicia Costábile [Link a la presentación]().
 Ejemplos de obtención y/o mejora de ensamblados, análisis de estructura genómica, genómica de poblaciones y filogenética/filogeografía de patógenos 1.   
 Andrés Parada [Link a la presentación]().  
 Ejemplos de obtención y/o mejora de ensamblados, análisis de estructura genómica, genómica de poblaciones y filogenética/filogeografía de patógenos 2.   
-Docente: [Link a la presentación]().  
+Pablo Fresia: [Link a la presentación]().  
 
 #### Prácticos (4 hs):
 Preparación de biblioteca de secuenciación libre de amplificación (_ligation_) a partir de ADN purificado.   
@@ -39,11 +39,12 @@ Cargado en celda de secuenciación y manejo de software.
 Cecilia Salazar  
 Alicia Costábile   
 Florencia Díaz
+Nadia Riera
 
 ### Día 3: Monitoreo de enfermedades infecciosas y resistencia a antimicrobianos.
 #### Teóricos (3 hs): 
 Monitoreo de la resistencia antimicrobiana.   
-Docente: [Link a la presentación]().  
+Nadia Riera: [Link a la presentación]().  
 Introducción a las herramientas para la tipificación de cepas, estudio comparativo de genomas y relaciones filogenéticas.  
 Daniela Costa [Link a la presentación]().  
 
@@ -61,11 +62,12 @@ Discusión grupal.
 Varios docentes  
 
 ### Día 5: Aplicación de ONT para la generación de genomas virales. Aplicación y relevancia para el estudio de brotes epidemiológicos.
-#### Teóricos (3 hs): 
+#### Teóricos (3 hs):    
+Estrategias y métodos para la caracterización de la evolución viral.  
+Marianoel Pereira  [Link a la presentación]().
 Ejemplos de seguimiento de la evolución viral en tiempo real con ONT: SARS-CoV-2.   
 Pilar Moreno [Link a la presentación]().   
-Estrategias y métodos para la caracterización de la evolución viral.  
-Marianoel Pereira  [Link a la presentación]().    
+    
 
 #### Prácticos (4 hs):
 Presentación y discusión de los resultados grupales. [Instrucciones]().  
