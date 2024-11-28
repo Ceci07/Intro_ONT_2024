@@ -9,9 +9,10 @@
 Presentación de estudiantes y docentes.  
 Introducción a las tecnologías de secuenciación TGS.  Fundamentos de la secuenciación con ONT.   
 Dra. Cecilia Salazar.   
-Plataformas de secuenciación de tercera generación: utilización de TGS para el ensamblado de genomas.  
-Mejorando ensamblajes genómicos con lecturas largas: del procesamiento a la aplicación. Dra. Luisa Berná.  
-TGS para el ensamblado de genomas: Genomas complejos y epigenéitca. Dra. Florencia Díaz.  
+Mejorando ensamblajes genómicos con lecturas largas: del procesamiento a la aplicación.  
+Dra. Luisa Berná.  
+TGS para el ensamblado de genomas: Genomas complejos y epigenéitca.  
+Dra. Florencia Díaz.  
 
 #### Prácticos (4 hs):	
 Introducción a la sección práctica. Consideraciones para la extracción de ADN genómico microbiano, control de calidad del ADN.  
