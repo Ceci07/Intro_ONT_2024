@@ -558,7 +558,7 @@ secuenciación larga con <em>Flye</em></strong></h3>
 </div>
 <pre><code>mkdir -p ensamblado/Flye
 
-flye --nano-raw ont_data/nanofilt_output/filt_F19_BC05_ONT.fastq --out-dir ensamblado/Flye/ --genome-size 5g --threads 8 --iterations 2</code></pre>
+flye --nano-raw ont_data/nanofilt_output/filt_F19_BC05_ONT.fastq --out-dir ensamblado/Flye/ --genome-size 5g --threads 8 --iterations 1</code></pre>
 <p>o</p>
 <pre><code>source scripts/6.flye.sh</code></pre>
 <div id="ensamblado-genómico-híbrido-a-partir-de-lecturas-de-secuenciación-cortas-y-largas-con-unicycler" class="section level3" style="color:#bc4749;">
@@ -567,7 +567,7 @@ secuenciación cortas y largas con <em>Unicycler</em></strong></h3>
 </div>
 <pre><code>mkdir -p ensamblado/Unicycler
 
-unicycler -1 illumina_data/trimmomatic_output/P1_F19_S225_R1.flt.fastq -2 illumina_data/trimmomatic_output/P2_F19_S225_R2.flt.fastq -l ont_data/nanofilt_output/filt_F19_BC05_ONT.fastq -t 8 -o ensamblado/Unicycler/</code></pre>
+unicycler -1 illumina_data/trimmomatic_output/P1_F19_S225_R1.flt.fastq -2 illumina_data/trimmomatic_output/P2_F19_S225_R2.flt.fastq -l ont_data/nanofilt_output/filt_F19_BC05_ONT.fastq -t 4 -o ensamblado/Unicycler/</code></pre>
 <p>o</p>
 <pre><code>source scripts/7.unicycler.sh</code></pre>
 <div style="color:#c1121f;">
