@@ -8,69 +8,59 @@
 #### Teóricos (3 hs):
 Presentación de estudiantes y docentes.  
 Introducción a las tecnologías de secuenciación TGS.  Fundamentos de la secuenciación con ONT.   
-Cecilia Salazar [Link a la presentación]().  
+Dra. Cecilia Salazar.   
 Plataformas de secuenciación de tercera generación: utilización de TGS para el ensamblado de genomas.  
-Luisa Berná: [Link a la presentación 1]().  
-Florencia Díaz: [Link a la presentación 2]().  
+Mejorando ensamblajes genómicos con lecturas largas: del procesamiento a la aplicación. Dra. Luisa Berná.  
+TGS para el ensamblado de genomas: Genomas complejos y epigenéitca. Dra. Florencia Díaz.  
 
 #### Prácticos (4 hs):	
-Tipos de plataformas de secuenciación ONT. Diseño del experimento de secuenciación. Métodos de preparación de bibliotecas de secuenciación ONT utilizando métodos libres y dependientes de amplificación.   
-Alicia Costábile [Link a la presentación]().  
-Consideraciones para la extracción de ADN genómico microbiano y control de calidad del ADN.   
-Cecilia Salazar [Link a la presentación]().  
-Recursos en línea de ONT para el pre-procesamiento y análisis de secuencias: EPI2ME y Github.   
-Alicia Costábile [Link a la presentación]().  
-Github del curso. Localización de datos y exploración de la estructura de archivos. Instalación de herramientas.   
-Cecilia Salazar [Link a la presentación]() y [tutorial](https://ceci07.github.io/Intro_ONT_2024/doc1.html).  
-
+Introducción a la sección práctica. Consideraciones para la extracción de ADN genómico microbiano, control de calidad del ADN.  
+Tipos de plataformas de secuenciación ONT. Diseño del experimento de secuenciación. Métodos de preparación de bibliotecas de secuenciación ONT utilizando métodos libres y dependientes de amplificación.  
+Recursos en línea de ONT para el pre-procesamiento y análisis de secuencias: EPI2ME y Github.  
+Localización de datos y exploración de la estructura de archivos. Localización del [tutorial](https://ceci07.github.io/Intro_ONT_2024/doc1.html) del curso.  
 
 ### Día 2: Aplicación de ONT para la generación de genomas bacterianos completos y su relevancia en el área epidemiológica.
 #### Teóricos (3 hs): 
 Estrategias de preparación de bibliotecas de secuenciación genómica  y herramientas para la obtención de genomas completos de microorganismos.   
-Alicia Costábile [Link a la presentación]().  
-Ejemplos de obtención y/o mejora de ensamblados, análisis de estructura genómica, genómica de poblaciones y filogenética/filogeografía de patógenos 1.   
-Andrés Parada [Link a la presentación]().  
-Ejemplos de obtención y/o mejora de ensamblados, análisis de estructura genómica, genómica de poblaciones y filogenética/filogeografía de patógenos 2.   
-Pablo Fresia: [Link a la presentación]().  
+Dra. Alicia Costábile.  
+Genomas y Filogenias. Dr. Andrés Parada. Institut Pasteur de Montevideo y Facultad de Ciencias.   
+Dr. Andrés Parada.  
+Estructura poblacional a partir de datos genómicos.  
+Dr. Pablo Fresia.  
 
 #### Prácticos (4 hs):
 Preparación de biblioteca de secuenciación libre de amplificación (_ligation_) a partir de ADN purificado.   
 Cargado en celda de secuenciación y manejo de software.  
-Cecilia Salazar  
-Alicia Costábile   
-Florencia Díaz
-Nadia Riera
+Dra. Cecilia Salazar  
+Dra. Alicia Costábile   
+Dra. Florencia Díaz  
+Dra. Nadia Riera  
 
 ### Día 3: Monitoreo de enfermedades infecciosas y resistencia a antimicrobianos.
 #### Teóricos (3 hs): 
-Monitoreo de la resistencia antimicrobiana.   
-Nadia Riera: [Link a la presentación]().  
-Introducción a las herramientas para la tipificación de cepas, estudio comparativo de genomas y relaciones filogenéticas.  
-Daniela Costa [Link a la presentación]().  
+Antibióticos, patógenos y resistencia en la era post genómica.   
+Dra. Nadia Riera.  
+Herramientas para la tipificación de cepas, estudio comparativo de genomas y relaciones filogenéticas.  
+Dra. Daniela Costa.  
 
 #### Prácticos (4 hs):
 Control de calidad de los datos de secuenciación ONT de un dataset público. Ensamblado _de novo_ y determinación de las relaciones filogenéticas con secuencias depositadas en base de datos públicas. 
-Varios docentes [Ver práctico]() y [tutorial](https://ceci07.github.io/Intro_ONT_2024/doc2.html).   
+[Tutorial](https://ceci07.github.io/Intro_ONT_2024/doc2.html).   
 
 ### Día 4: Análisis de datos de secuenciación. Procesamiento de datos crudos. Ensamblado de genomas. 
-#### Prácticos (7 hs):
-Control de calidad de los datos generados en el práctico. Ensamblado genómico, búsqueda de genes de resistencia a antimicrobianos y virulencia. Clasificación de contigs plasmídicos.  
-Discusión grupal.  
-Varios docentes  
-Análisis filogenéticos de los genomas ensamblados y su relación con los genomas en la base de datos.  
-Discusión grupal.  
-Varios docentes  
+#### Prácticos (7 hs):  
+TRABAJO GRUPAL CON DATOS DE SECUENCIACIÓN GENERADOS EN EL PRÁCTICO
+Preparación de presentación grupal. 
 
 ### Día 5: Aplicación de ONT para la generación de genomas virales. Aplicación y relevancia para el estudio de brotes epidemiológicos.
 #### Teóricos (3 hs):    
-Estrategias y métodos para la caracterización de la evolución viral.  
-Marianoel Pereira  [Link a la presentación]().
-Ejemplos de seguimiento de la evolución viral en tiempo real con ONT: SARS-CoV-2.   
-Pilar Moreno [Link a la presentación]().   
-    
+Buscando el SARS-CoV-2 en superficies: recuperación de genomas y predicciones de infectividad en entornos hospitalarios.  
+Dra. Marianoel Pereira.
+Vigilancia Genómica de SARS-CoV2: Del principio al fin.   
+Dra. Pilar Moreno.   
 
 #### Prácticos (4 hs):
 Presentación y discusión de los resultados grupales. [Instrucciones]().  
-Varios docentes  
+Evaluación escrita.    
 
 
