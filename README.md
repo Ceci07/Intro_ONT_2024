@@ -56,7 +56,7 @@ Preparación de presentación grupal.
 ### Día 5: Aplicación de ONT para la generación de genomas virales. Aplicación y relevancia para el estudio de brotes epidemiológicos.
 #### Teóricos (3 hs):    
 Buscando el SARS-CoV-2 en superficies: recuperación de genomas y predicciones de infectividad en entornos hospitalarios.  
-Dra. Marianoel Pereira.
+Dra. Marianoel Pereira.  
 Vigilancia Genómica de SARS-CoV2: Del principio al fin.   
 Dra. Pilar Moreno.   
 
