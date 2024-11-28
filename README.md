@@ -51,7 +51,7 @@ Control de calidad de los datos de secuenciación ONT de un dataset público. En
 ### Día 4: Análisis de datos de secuenciación. Procesamiento de datos crudos. Ensamblado de genomas. 
 #### Prácticos (7 hs):  
 TRABAJO GRUPAL CON DATOS DE SECUENCIACIÓN GENERADOS EN EL PRÁCTICO
-Preparación de presentación grupal. 
+Preparación de presentación grupal. [Instrucciones]().
 
 ### Día 5: Aplicación de ONT para la generación de genomas virales. Aplicación y relevancia para el estudio de brotes epidemiológicos.
 #### Teóricos (3 hs):    
@@ -61,7 +61,7 @@ Vigilancia Genómica de SARS-CoV2: Del principio al fin.
 Dra. Pilar Moreno.   
 
 #### Prácticos (4 hs):
-Presentación y discusión de los resultados grupales. [Instrucciones]().  
+Presentación y discusión de los resultados grupales.  
 Evaluación escrita.    
 
 
