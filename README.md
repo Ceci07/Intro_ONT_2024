@@ -45,7 +45,7 @@ Herramientas para la tipificación de cepas, estudio comparativo de genomas y re
 Dra. Daniela Costa.  
 
 #### Prácticos (4 hs):
-Control de calidad de los datos de secuenciación ONT de un dataset público. Ensamblado _de novo_ y determinación de las relaciones filogenéticas con secuencias depositadas en base de datos públicas. 
+Control de calidad de los datos de secuenciación ONT de un dataset público. Ensamblado _de novo_ y determinación de las relaciones filogenéticas con secuencias depositadas en base de datos públicas.   
 [Tutorial](https://ceci07.github.io/Intro_ONT_2024/doc2.html).   
 
 ### Día 4: Análisis de datos de secuenciación. Procesamiento de datos crudos. Ensamblado de genomas. 
