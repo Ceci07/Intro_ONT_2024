@@ -6,8 +6,8 @@
 
 ### Día 1: Introducción a la secuenciación de tercera generación. Comparación con tecnologías de secuenciación previas. 
 #### Teóricos (3 hs):
-Presentación de estudiantes y docentes.  
-Introducción a las tecnologías de secuenciación TGS.  Fundamentos de la secuenciación con ONT.   
+Bienvenida.  
+Introducción a las tecnologías de secuenciación TGS. Fundamentos de la secuenciación con ONT.   
 Dra. Cecilia Salazar.   
 Mejorando ensamblajes genómicos con lecturas largas: del procesamiento a la aplicación.  
 Dra. Luisa Berná.  
