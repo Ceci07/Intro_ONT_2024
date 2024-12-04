@@ -46,7 +46,7 @@ Dra. Daniela Costa.
 
 #### Prácticos (4 hs):
 Control de calidad de los datos de secuenciación ONT de un dataset público. Ensamblado _de novo_ y determinación de las relaciones filogenéticas con secuencias depositadas en base de datos públicas.   
-[Tutorial]().   
+[Tutorial](https://ceci07.github.io/Intro_ONT_2024/tutorial2.html).   
 
 ### Día 4: Análisis de datos de secuenciación. Procesamiento de datos crudos. Ensamblado de genomas. 
 #### Prácticos (7 hs):  
