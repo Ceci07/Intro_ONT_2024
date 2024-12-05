@@ -50,7 +50,7 @@ Control de calidad de los datos de secuenciación ONT de un dataset público. En
 
 ### Día 4: Análisis de datos de secuenciación. Procesamiento de datos crudos. Ensamblado de genomas. 
 #### Prácticos (7 hs):  
-TRABAJO GRUPAL CON DATOS DE SECUENCIACIÓN GENERADOS EN EL PRÁCTICO
+TRABAJO GRUPAL CON DATOS DE SECUENCIACIÓN GENERADOS EN EL PRÁCTICO.  
 Preparación de presentación grupal. [Instrucciones](https://ceci07.github.io/Intro_ONT_2024/tutorial4.html).
 
 ### Día 5: Aplicación de ONT para la generación de genomas virales. Aplicación y relevancia para el estudio de brotes epidemiológicos.
